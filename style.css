@@ -1,0 +1,17 @@
+h2 , h3 {
+    line-height: 3
+}
+
+p .style {
+    line-height: 2
+}
+ 
+.try {
+    float:right;
+    width: auto;
+    height: 555px;
+}
+
+h1 {
+    text-align: center;
+}
